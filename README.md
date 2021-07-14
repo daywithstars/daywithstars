@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @daywithstars
 - 👀 I’m interested in Game Programming
-- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Game Dev tools
 - 📫 How to reach me https://www.instagram.com/daywithstars/
