@@ -4,7 +4,7 @@
 - 👀 I’m interested in Game Programming
 - 💞️ I’m looking to collaborate on Game Dev tools
 
-## Contact 
+## Contact & Social Media 
 <p align="center">
   <a href="https://www.instagram.com/daywithstars/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCkBKfq3QzleueGrjjcRiPMw?style=social">
   </a>
 </p>
+
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3D91daywithstars%26type%3Dpatrons&style=flat-square)](https://patreon.com/91daywithstars)
 
 
 
