@@ -15,9 +15,10 @@
   <a href="https://www.youtube.com/channel/UCkBKfq3QzleueGrjjcRiPMw">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCkBKfq3QzleueGrjjcRiPMw?style=social">
   </a>
+  <a href="https://patreon.com/91daywithstars"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3D91daywithstars%26type%3Dpatrons&style=flat-square" alt="Support me on Patreon" /></a>
 </p>
 
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3D91daywithstars%26type%3Dpatrons&style=flat-square)](https://patreon.com/91daywithstars)
+
 
 
 
