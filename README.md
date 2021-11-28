@@ -6,13 +6,13 @@
 
 ## Contact 
 <p align="center">
-  <a href="https://www.instagram.com/daywithstars/">
+  <a href="https://www.instagram.com/daywithstars/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/danrley-awesley-9810531b2">
+  <a href="https://www.linkedin.com/in/danrley-awesley-9810531b2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/channel/UCkBKfq3QzleueGrjjcRiPMw">
+  <a href="https://www.youtube.com/channel/UCkBKfq3QzleueGrjjcRiPMw" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCkBKfq3QzleueGrjjcRiPMw?style=social">
   </a>
 </p>
