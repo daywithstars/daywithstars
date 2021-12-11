@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @daywithstars
 - 👀 I’m interested in Game Programming
-- 💞️ I’m looking to collaborate on Game Dev tools
+- 💞️ I’m looking to collaborate with Game Dev tools
 
 ## Contact & Social Media 
 <p align="center">
